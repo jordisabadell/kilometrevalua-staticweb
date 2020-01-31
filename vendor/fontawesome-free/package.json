@@ -2,7 +2,7 @@
   "_args": [
     [
       "@fortawesome/fontawesome-free@5.8.1",
-      "C:\\www\\kilometresolidarivalua-project"
+      "C:\\Development\\www\\kilometresolidari_valua-www-project"
     ]
   ],
   "_from": "@fortawesome/fontawesome-free@5.8.1",
@@ -27,7 +27,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/@fortawesome/fontawesome-free/-/fontawesome-free-5.8.1.tgz",
   "_spec": "5.8.1",
-  "_where": "C:\\www\\kilometresolidarivalua-project",
+  "_where": "C:\\Development\\www\\kilometresolidari_valua-www-project",
   "author": {
     "name": "Dave Gandy",
     "email": "dave@fontawesome.com",
