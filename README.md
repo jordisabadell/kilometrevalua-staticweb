@@ -14,7 +14,7 @@ Website based on the original theme [Creative](http://startbootstrap.com/templat
 - Font Awesome 5.8.1 (http://fontawesome.io/icons)
 - Google Analytics (https://developers.google.com/analytics)
 
-## Enviropment
+## Environment
 - NodeJS (https://nodejs.org/)
 - Gulp automating tasks (https://gulpjs.com/)
 - Visual Studio Code (https://code.visualstudio.com/)
