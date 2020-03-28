@@ -33,5 +33,11 @@ Website based on the original theme [Creative](http://startbootstrap.com/templat
 ---
 ## Environment commands
 
-- Install project dependencies `npm install`
-- Build and run server `npm start`
+Install project dependencies 
+```
+npm install
+```
+Build and run server 
+```
+npm start
+```
