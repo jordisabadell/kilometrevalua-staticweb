@@ -1,7 +1,7 @@
 # Kilòmetre Vàlua (static web)
 **A Kilòmetre Solidari project's web** :rocket:  
-http://www.kilometresolidari.cat
-(Firebase direct URL: https://kilometrevalua-staticweb.firebaseapp.com)
+http://www.kilometresolidari.cat  
+Firebase direct URL: https://kilometrevalua-staticweb.firebaseapp.com
 
 Static web page. Based on third party Boostrap theme. It built with gulp module bundler and it deploy in CI/CD environment using GitHub, Travis CI and Firebase cloud hosting.
 
